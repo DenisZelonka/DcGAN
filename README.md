@@ -1,1 +1,1 @@
-# DcGAN
+Pytorch implementation of different GAN architectures
